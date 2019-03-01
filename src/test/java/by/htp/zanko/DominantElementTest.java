@@ -18,4 +18,5 @@ public class DominantElementTest {
 
         Assert.assertNotNull(result);
     }
+
 }
